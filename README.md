@@ -33,7 +33,6 @@ No meio desse processo me libertei do antiga profissão e hoje estudo com afinco
 ### Tools and Frameworks :hammer:
 
 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
  <img height="32" width="32" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" />&nbsp; 
