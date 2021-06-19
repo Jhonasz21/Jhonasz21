@@ -2,7 +2,7 @@
 
 ## Jonas Cunha Macêdo 🍀
 -:computer: Sou estudante de tecnologia análise desenvolvimento de sistemas na FIS. 
--:princess: Admiro Gladys West criadora do Gps   
+   
 -:guitar:   Tenho como referência e respeito seu trabalho considerado pai POO Alan Kay :trophy:
 
 <details>
