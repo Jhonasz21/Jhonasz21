@@ -1,4 +1,4 @@
-## Olá, seja bemvindo! 👋
+## Olá, seja bemvindo 🍀
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
@@ -24,3 +24,11 @@ No meio desse processo me libertei do antiga profissão e hoje estudo com afinco
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
 
+<!-- footer --!>
+
+<p align="center">
+    <a id="GitHub" href="https://github.com/Jhonasz21"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Jhonasz21 - GitHub" /></a>
+    &nbsp;&nbsp;     
+    <a id="LinkedIn" href="https://www.linkedin.com/in/jonas-cunha-mac%C3%AAdo-3a9b71178/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+   
+<img src="https://imgur.com/rilHVxA.png"/>
