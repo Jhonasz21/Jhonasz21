@@ -2,7 +2,7 @@
 
 ## Jonas Cunha Macêdo 🍀
 
-
+:computer: Sou estudante de tecnologia análise desenvolvimento de sistemas
 
 <details>
 <summary>
