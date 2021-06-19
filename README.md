@@ -1,6 +1,6 @@
 ## Olá, seja bemvindo 🍀
 
-<p align="center"><img src="https://i.imgur.com/A7bWGFl.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <details>
 <summary>
