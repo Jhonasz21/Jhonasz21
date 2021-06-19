@@ -5,6 +5,8 @@
    
 -:guitar:   Tenho como referência e respeito seu trabalho considerado pai POO Alan Kay :trophy:
 
+-:princess: Admiro Gladys West criadora do Gps
+
 <details>
 <summary>
   <a href="https://github.com/Jhonasz21"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
