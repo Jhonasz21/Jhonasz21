@@ -2,7 +2,7 @@
 
 ## Jonas Cunha Macêdo 🍀
 
-:computer: Sou estudante de tecnologia análise desenvolvimento de sistemas na FIS
+:computer: Sou estudante de tecnologia análise desenvolvimento de sistemas na FIS &nbsp
 👸         Admiro Gladys West criadora do :gps:   
 
 <details>
