@@ -29,6 +29,6 @@ No meio desse processo me libertei do antiga profissão e hoje estudo com afinco
 <p align="center">
     <a id="GitHub" href="https://github.com/Jhonasz21"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Jhonasz21 - GitHub" /></a>
     &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://www.linkedin.com/in/jonas-cunha-mac%C3%AAdo-3a9b71178/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://www.linkedin.com/in/jonas-cunha-mac%C3%AAdo-3a9b71178/"><img width="27px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="jonas Cunha Macêdo - LinkedIn" /></a> 
    
 <img src="https://imgur.com/rilHVxA.png"/>
