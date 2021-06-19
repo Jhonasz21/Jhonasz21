@@ -1,16 +1,19 @@
 ## Olá, seja bemvindo! 👋
 
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <summary>
   <a href="https://github.com/Jhonasz21"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 
 
-### Little More About Me  
+### Um pouco mas sobre min  
+A pouco tempo atrás eu pedi ao Eterno aprender a aprender conheci então PNL.
+A progração neuro-liguística é uma tecnologia que me dá base para ser autoditada com aprendizagem acelerada.
+A realidade externa de um evento é igual para todos, e recebemos as informações através dos nossos canais sensoriais (NEURO), que passam por filtros (PROGRAMAÇÃO) e formam uma representação interna para a pessoa. Essa representação interna gera um estado na pessoa, ou seja, leva a diferentes emoções que acabam interferindo na fisiologia e também nos comportamentos, nas ações dessa pessoa, tanto aspecto verbal quanto não verbal (LINGUÍSTICA).
+No meio desse processo me libertei do antiga profissão e hoje estudo com afinco para minha area que é o que me faz bem desenvolvedor Java.
 
-I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
-
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
 ### Programming Languages :scroll:
  
