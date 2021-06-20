@@ -14,7 +14,7 @@
 
 
 
-### Um pouco mas sobre mim
+### Um pouco mais sobre mim
 A pouco tempo atrás eu pedi ao Eterno aprender a aprender conheci então PNL.
 A progração neuro-liguística é uma tecnologia que me dá base para ser autoditada com aprendizagem acelerada.
 A realidade externa de um evento é igual para todos, e recebemos as informações através dos nossos canais sensoriais (NEURO), que passam por filtros (PROGRAMAÇÃO) e formam uma representação interna para a pessoa. Essa representação interna gera um estado na pessoa, ou seja, leva a diferentes emoções que acabam interferindo na fisiologia e também nos comportamentos, nas ações dessa pessoa, tanto aspecto verbal quanto não verbal (LINGUÍSTICA).
