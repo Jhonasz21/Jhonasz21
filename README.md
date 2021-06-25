@@ -1,6 +1,7 @@
   <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Jonas Cunha Macêdo 🍀
+<header>
 <p align="right">
     <a id="GitHub" href="https://github.com/Jhonasz21"><img width="70px" src="https://img.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Jhonasz21 - GitHub" /></a></p>
    <p align="center"> 
