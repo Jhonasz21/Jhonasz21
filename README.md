@@ -1,6 +1,13 @@
   <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Jonas Cunha Macêdo 🍀
+
+<p align="center">
+    <a id="GitHub" href="https://github.com/Jhonasz21"><img width="70px" src="https://img.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Jhonasz21 - GitHub" /></a>
+    
+     <a id="LinkedIn" href="https://www.linkedin.com/in/jonas-cunha-mac%C3%AAdo-3a9b71178/"><img width="70px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="jonas Cunha Macêdo - LinkedIn" /></a> 
+
+
 -:computer: Sou estudante de tecnologia análise desenvolvimento de sistemas na FIS. 
    
 -:guitar:   Tenho como referência e respeito seu trabalho considerado pai POO Alan Kay :trophy:
@@ -39,9 +46,6 @@ No meio desse processo me libertei do antiga profissão e hoje estudo com afinco
   
 <!-- footer --!>
 
-<p align="center">
-    <a id="GitHub" href="https://github.com/Jhonasz21"><img width="70px" src="https://img.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Jhonasz21 - GitHub" /></a>
-    &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://www.linkedin.com/in/jonas-cunha-mac%C3%AAdo-3a9b71178/"><img width="70px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="jonas Cunha Macêdo - LinkedIn" /></a> 
+
    
 <img src="https://imgur.com/rilHVxA.png"/>
