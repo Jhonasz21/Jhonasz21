@@ -33,7 +33,9 @@ No meio desse processo me libertei do antiga profissão e hoje estudo com afinco
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-
+  
+  ### Databases
+<img height="32" width="32" src="https://www.bacula.lat/wp-content/uploads/2019/05/postgresql-logo.png" />&nbsp; 
   
 ### Tools and Frameworks :hammer:
 
