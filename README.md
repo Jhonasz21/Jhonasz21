@@ -5,6 +5,7 @@
 <p align="right">
      <a id="LinkedIn" href="https://www.linkedin.com/in/jonas-cunha-mac%C3%AAdo-3a9b71178/"><img width="70px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="jonas Cunha Macêdo - LinkedIn" /></a> </p>
 
+  <a href=""<i class="fab fa-linkedIn"/></i></a>
 
 -:computer: Sou estudante de tecnologia análise desenvolvimento de sistemas na FIS. 
    
