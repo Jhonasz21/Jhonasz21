@@ -21,10 +21,12 @@
 
 
 ### Um pouco mais sobre mim
-A pouco tempo atrás eu pedi ao Eterno aprender a aprender conheci então PNL.
-A progração neuro-liguística é uma tecnologia que me dá base para ser autoditada com aprendizagem acelerada.
-A realidade externa de um evento é igual para todos, e recebemos as informações através dos nossos canais sensoriais (NEURO), que passam por filtros (PROGRAMAÇÃO) e formam uma representação interna para a pessoa. Essa representação interna gera um estado na pessoa, ou seja, leva a diferentes emoções que acabam interferindo na fisiologia e também nos comportamentos, nas ações dessa pessoa, tanto aspecto verbal quanto não verbal (LINGUÍSTICA).
-No meio desse processo me libertei do antiga profissão e hoje estudo com afinco para minha area que é o que me faz bem. 
+Profissional graduando em Tecnologia, Análise de Sistema e Desenvolvimento, em fase de transição de carreira, a procura de uma oportunidade na área de TI onde eu possa aprimorar e expandir meus conhecimentos, visando sempre uma boa qualificação profissional. 
+•	Habilidades em HTML5, CSS, PHP, Javascript, JAVA, Databases, SQL, Postgresql, Frameworks, Spring Boot, Spring JPA, Hibernate, Swagger, Postman e Github.
+•	Conhecimento em metodologias ágeis: Scrum e Kanban, a fim de contribuir com a melhoria contínua dos projetos e processos relacionados a área de Tecnologia da Informação. 
+•	Profissional altamente capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções e focado em resultados. Organizado, responsável e com facilidade em adaptar-se às mudanças.
+
+Palavras-chave: TI, análise de sistemas, desenvolvimento de sistemas, JAVA, HTML5, CSS, PHP, Javascript, Databases, SQL, Postgresql, Framework, Spring, Boot, JPA, Hibernate, Swagger, Postman, Github, metodologias ágeis, SCRUM, Kanban.
 
 
 ### Programming Languages :scroll:
